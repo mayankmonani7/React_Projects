@@ -1,7 +1,9 @@
 # A Dynamic Payment Gateway Site
 
 >>> Made with React JS
+
 >>> Dynamic Features
+
 >>> Modals and many more...
 
 
