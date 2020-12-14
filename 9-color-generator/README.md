@@ -1,3 +1,11 @@
-#### Values JS
+# Color Generator React JS App
 
-[values.js](https://github.com/noeldelgado/values.js)
+>>> Enter any color's Hex Value
+
+>>> Get all shades of that color in hex value
+
+>>> Copy and Paste feature
+
+# Link for live preview
+
+[Click Here](https://color-gen-setup.netlify.app/)
