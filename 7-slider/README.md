@@ -1,5 +1,9 @@
-# react-projects-7-slider
+# Automatic Slider React JS App
 
-#### IN ACTION
+>>> Sliding Feature
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+>>> Automatic Sliding
+
+# Link for live preview
+
+[Click Here](https://slider-setup.netlify.app/)
