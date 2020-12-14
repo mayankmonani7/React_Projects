@@ -2,7 +2,7 @@
 
 <<<< Small Components of a Website >>>>
 
->>> Used React Fundamentals, Hooks, ContextAPIs, ReactRouter, CustomHooks.
+>>> Used React Fundamentals, Hooks, Context APIs, React Router, Custom Hooks.
 
 >>> Share with your friends.
 
