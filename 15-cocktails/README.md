@@ -1,11 +1,11 @@
-#### React Router Fix
+# A Restaurant's Cocktail Menu
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+>>> Used External APIs
 
-#### CRA Fix
+>>> React Hooks, Context APIs
 
-```
+>>> Dynamic Searching through DataBase.
 
-"build": "CI= react-scripts build",
+# Link for preview
 
-```
+[Click Here](https://cocktail-setup.netlify.app/)
