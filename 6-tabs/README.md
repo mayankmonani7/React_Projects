@@ -1,3 +1,9 @@
-#### IN ACTION
+# A Dynamic Portfolio Setup
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+>>> Dynamic Buttons
+
+>>> Navigation through tabs
+
+# Link for live preview
+
+[Click Here](https://per-tabs-setup.netlify.app/)
